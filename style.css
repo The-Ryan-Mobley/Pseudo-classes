@@ -1,0 +1,20 @@
+a{
+    padding:2%;
+    background-color: teal;
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:grey;
+    background-color:yellow;
+
+}
+a:focus{
+    border:30px dotted black;
+}
+a:active{
+    border:solid 10px orange;
+}
+p:hover{
+    color:green;
+}
