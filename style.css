@@ -1,20 +1,30 @@
-a{
+.button1{
     padding:2%;
     background-color: teal;
     color:white;
     text-decoration: none;
 }
-a:hover{
+.button1:hover{
     color:grey;
     background-color:yellow;
 
 }
-a:focus{
+.button1:focus{
     border:30px dotted black;
 }
-a:active{
+.button1:active{
     border:solid 10px orange;
 }
-p:hover{
+.button1:hover{
     color:green;
+}
+.button2{
+    background-color:red;
+    color:yellow;
+    padding:3%;
+}
+.button2:hover{
+    background-color:blue;
+    color:orangered;
+    padding:1%;
 }
